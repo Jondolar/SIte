@@ -1,4 +1,6 @@
 # Site
+A repository containging the files making our site together with my gf.
+
 echo "# Site" >> README.md
 git init
 git add README.md
